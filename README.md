@@ -4,11 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student,Web Developer
 ---------------------
 
-*   🌍  I'm based in india
-*   🖥️  See my portfolio at [Portfolio](http://surya-dev.herokuapp.com/)
-*   ✉️  You can contact me at [suryanarayana7826@gmail.com](mailto:suryanarayana7826@gmail.com)
-*   🧠  I'm learning React
-*   🤝  I'm open to collaborating on Any Open Source Projects### Skills 
+* 🌍  I'm based in india
+* 🖥️  See my portfolio at [Portfolio](http://surya-dev.herokuapp.com/)
+* ✉️  You can contact me at [suryanarayana7826@gmail.com](mailto:suryanarayana7826@gmail.com)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on Any Open Source Projects
+
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -23,16 +26,21 @@ Student,Web Developer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/20pa5a1210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/suryaundapalli/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/surya_undapalli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/20pa5a1210"><img src="https://github-readme-stats.vercel.app/api?username=20pa5a1210&show_icons=true&hide=prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="20pa5a1210's GitHub stats" /></a><a
-                      href="http://www.github.com/20pa5a1210"><img src="https://activity-graph.herokuapp.com/graph?username=20pa5a1210&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/20pa5a1210" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20pa5a1210&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/20pa5a1210/infy-express" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=20pa5a1210&repo=infy-express&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/20pa5a1210/E-Bakery-MERN-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=20pa5a1210&repo=E-Bakery-MERN-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+<p align="left"> <a href="https://www.github.com/20pa5a1210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/suryaundapalli/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/surya_undapalli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/20pa5a1210"><img src="https://github-readme-stats.vercel.app/api?username=20pa5a1210&show_icons=true&hide=prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="20pa5a1210's GitHub stats" /></a>
+
+<a href="http://www.github.com/20pa5a1210"><img src="https://activity-graph.herokuapp.com/graph?username=20pa5a1210&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/20pa5a1210" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20pa5a1210&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/20pa5a1210/infy-express" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=20pa5a1210&repo=infy-express&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/20pa5a1210/E-Bakery-MERN-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=20pa5a1210&repo=E-Bakery-MERN-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
